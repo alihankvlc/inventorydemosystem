@@ -1,2 +1,2 @@
 # inventorydemosystem
-Deneme amaçlı geliştirdiğim envanter sistemini paylaşıyorum.
+Deneme amaçlı geliştirdiğim envanter sistemi.
